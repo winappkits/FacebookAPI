@@ -163,9 +163,6 @@
     <Reference Include="Facebook.Client">
       <HintPath>..\packages\Facebook.Client.0.7.0-alpha\lib\win8\Facebook.Client.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\..\Json50r5\Bin\WinRT\Newtonsoft.Json.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
     <VisualStudioVersion>11.0</VisualStudioVersion>
